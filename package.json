@@ -1,0 +1,19 @@
+{
+  "name": "ecommerce",
+  "version": "1.0.0",
+  "description": "This is an Amazon Clone thanks to an Udemy course we will learn Stripe integration and also db w/ NoSQL ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Claudio Atilano",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mongoose": "^4.9.8",
+    "morgan": "^1.8.1",
+    "nodemon": "^1.11.0"
+  }
+}
